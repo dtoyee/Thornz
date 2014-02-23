@@ -1,0 +1,5 @@
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\bin\Release\RPG Game.exe
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\bin\Release\RPG Game.pdb
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Release\RPG Game.exe
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Release\RPG Game.pdb

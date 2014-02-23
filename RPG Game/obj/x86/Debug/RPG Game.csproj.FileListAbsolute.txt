@@ -1,0 +1,12 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\RPG Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\RPG Game\bin\Debug\RPG Game.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\RPG Game\bin\Debug\RPG Game.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\RPG Game\obj\x86\Debug\RPG Game.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\RPG Game\obj\x86\Debug\RPG Game.pdb
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Debug\RPG Game.exe
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Debug\RPG Game.pdb
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\bin\Debug\RPG Game.exe
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\bin\Debug\RPG Game.pdb
+C:\Users\Jon\documents\visual studio 2010\Projects\RPG Game\RPG Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RPG Game\RPG Game\obj\x86\Debug\RPG Game.exe
+E:\RPG Game\RPG Game\obj\x86\Debug\RPG Game.pdb
